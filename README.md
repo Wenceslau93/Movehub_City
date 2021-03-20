@@ -6,13 +6,13 @@ O dataset Movehub City, se refere a uma métrica onde mostra o ranking das melho
 
 Para avaliar se uma cidade é boa para se viver, é necessário levar alguns pontos em consideração, como por exemplo:
 
-Se a cidade possui uma boa localidade;
-População tem uma boa qualidade de vida
-População com salários maiores que a média;
-Se a chances de crescimento em termo de valorização do local;
-Segurança do local;
-Existe pouca taxa de crime;
-Entre outras avaliações.
+Se a cidade possui uma boa localidade;<br/>
+População tem uma boa qualidade de vida<br/>
+População com salários maiores que a média;<br/>
+Se a chances de crescimento em termo de valorização do local;<br/>
+Segurança do local;<br/>
+Existe pouca taxa de crime;<br/>
+Entre outras avaliações.<br/><br/>
 
 Pesquisando sobre o dataset para entender mais da regra de negócio, existe uma variável que se chama Movehub Rating, que é a combinação de todas as pontuações para realizar a classificação geral da cidade.
 
