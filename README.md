@@ -7,7 +7,7 @@ O dataset Movehub City, se refere a uma métrica onde mostra o ranking das melho
 Para avaliar se uma cidade é boa para se viver, é necessário levar alguns pontos em consideração, como por exemplo:
 
 Se a cidade possui uma boa localidade;<br/>
-População tem uma boa qualidade de vida<br/>
+População tem uma boa qualidade de vida;<br/>
 População com salários maiores que a média;<br/>
 Se a chances de crescimento em termo de valorização do local;<br/>
 Segurança do local;<br/>
